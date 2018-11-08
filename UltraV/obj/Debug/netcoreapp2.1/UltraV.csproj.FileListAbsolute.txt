@@ -1,0 +1,17 @@
+C:\Users\yakov\RiderProjects\UltraV\UltraV\bin\Debug\netcoreapp2.1\UltraV.deps.json
+C:\Users\yakov\RiderProjects\UltraV\UltraV\bin\Debug\netcoreapp2.1\UltraV.runtimeconfig.json
+C:\Users\yakov\RiderProjects\UltraV\UltraV\bin\Debug\netcoreapp2.1\UltraV.runtimeconfig.dev.json
+C:\Users\yakov\RiderProjects\UltraV\UltraV\bin\Debug\netcoreapp2.1\UltraV.dll
+C:\Users\yakov\RiderProjects\UltraV\UltraV\bin\Debug\netcoreapp2.1\UltraV.pdb
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.csprojAssemblyReference.cache
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.csproj.CoreCompileInputs.cache
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.RazorAssemblyInfo.cache
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.RazorAssemblyInfo.cs
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.AssemblyInfoInputs.cache
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.AssemblyInfo.cs
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.RazorTargetAssemblyInfo.cache
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.dll
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.pdb
+C:\Users\yakov\RiderProjects\UltraV\UltraV\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\yakov\RiderProjects\UltraV\UltraV\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\yakov\RiderProjects\UltraV\UltraV\obj\Debug\netcoreapp2.1\UltraV.csproj.CopyComplete

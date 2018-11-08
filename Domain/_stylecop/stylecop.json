@@ -1,0 +1,13 @@
+﻿{
+  "Schema": "https://raw.githubusercontent.com/DotnetAnalyzers/master/StyleCopAnalyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "xmlHeader": true  
+    },
+    "indentation": {
+      "indentationSize": 4,
+      "tabSize": 4,
+      "useTabs": false
+    }
+  }
+}

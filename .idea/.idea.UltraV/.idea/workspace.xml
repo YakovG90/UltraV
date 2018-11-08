@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="079b6d5e-2be4-4208-a6a0-bda562545db6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CharacterService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Domain/Services/Implementation/CharacterService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <marker date="1541335326076" expanded="true" signature="6:208" ph="..." />
+                <marker date="1541335326076" expanded="true" signature="250:2003" ph="{...}" />
+                <marker date="1541335326076" expanded="true" signature="306:2001" ph="{...}" />
+                <marker date="1541335326076" expanded="true" signature="879:1268" ph="{...}" />
+                <marker date="1541335326076" expanded="true" signature="1321:1995" ph="{...}" />
+                <marker date="1541335326076" expanded="true" signature="1603:1658" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UltraV/Controllers/CharacterController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <marker date="1541336023399" expanded="true" signature="6:110" ph="..." />
+                <marker date="1541336023399" expanded="true" signature="140:644" ph="{...}" />
+                <marker date="1541336023399" expanded="true" signature="296:642" ph="{...}" />
+                <marker date="1541336023399" expanded="true" signature="417:473" ph="{...}" />
+                <marker date="1541336023399" expanded="true" signature="550:636" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateToken.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Domain/GenerateToken.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding>
+                <marker date="1541328526799" expanded="false" signature="6:142" ph="..." />
+                <marker date="1541328526799" expanded="true" signature="160:1736" ph="{...}" />
+                <marker date="1541328526799" expanded="true" signature="193:1734" ph="{...}" />
+                <marker date="1541328526799" expanded="true" signature="619:912" ph="{...}" />
+                <marker date="1541328526799" expanded="true" signature="958:1728" ph="{...}" />
+                <marker date="1541328526799" expanded="true" signature="1154:1482" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UltraV/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+              <folding>
+                <marker date="1541337124252" expanded="false" signature="6:562" ph="..." />
+                <marker date="1541337124252" expanded="true" signature="618:2876" ph="{...}" />
+                <marker date="1541337124252" expanded="true" signature="645:2874" ph="{...}" />
+                <marker date="1541337124252" expanded="true" signature="773:919" ph="{...}" />
+                <marker date="1541337124252" expanded="true" signature="1142:2185" ph="{...}" />
+                <marker date="1541337124252" expanded="true" signature="1210:1490" ph="{...}" />
+                <marker date="1541337124252" expanded="true" signature="1724:1932" ph="{...}" />
+                <marker date="1541337124252" expanded="true" signature="2373:2868" ph="{...}" />
+                <marker date="1541337124252" expanded="true" signature="2420:2497" ph="{...}" />
+                <marker date="1541337124252" expanded="true" signature="2514:2573" ph="{...}" />
+                <marker date="1541337124252" expanded="true" signature="2638:2791" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UltraV/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+              <folding>
+                <marker date="1541263942726" expanded="false" signature="6:255" ph="..." />
+                <marker date="1541263942726" expanded="true" signature="273:600" ph="{...}" />
+                <marker date="1541263942726" expanded="true" signature="300:598" ph="{...}" />
+                <marker date="1541263942726" expanded="true" signature="353:427" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UltraV/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceAttribute.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Domain/Settings/ServiceAttribute.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+              <folding>
+                <marker date="1541328372311" expanded="true" signature="25:364" ph="{...}" />
+                <marker date="1541328372311" expanded="true" signature="61:362" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UltraV/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="106" lean-forward="true" selection-start-line="16" selection-start-column="106" selection-end-line="16" selection-end-column="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServicesSettings.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Domain/Settings/ServicesSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+              <folding>
+                <marker date="1541327391958" expanded="true" signature="60:185" ph="{...}" />
+                <marker date="1541327391958" expanded="true" signature="96:183" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationDbContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Domain/DataAccess/ApplicationDbContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="100" />
+              <folding>
+                <marker date="1541325479656" expanded="false" signature="6:57" ph="..." />
+                <marker date="1541325479656" expanded="true" signature="86:920" ph="{...}" />
+                <marker date="1541325479656" expanded="true" signature="138:918" ph="{...}" />
+                <marker date="1541325479656" expanded="true" signature="472:492" ph="{...}" />
+                <marker date="1541325479656" expanded="true" signature="598:652" ph="{...}" />
+                <marker date="1541325479656" expanded="true" signature="797:912" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Domain/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UltraV/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/AccessTokenModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UltraV/Controllers/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Enums/CharacterClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Settings/ServicesSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UltraV/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/GenerateToken.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Settings/ServiceAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Services/Implementation/CharacterService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/DbEntityConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Mapping/CharacterMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Services/ICharacterService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/DataAccess/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/DataAccess/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Domain/Character.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/Domain/_stylecop/stylecop.json" />
+        <option value="$PROJECT_DIR$/Domain/stylecop.json" />
+        <option value="$PROJECT_DIR$/Domain/Domain.csproj" />
+        <option value="$PROJECT_DIR$/UltraV/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Domain/DataAccess/DataContext.cs" />
+        <option value="$PROJECT_DIR$/Domain/Domain.cs" />
+        <option value="$PROJECT_DIR$/Domain/Enums/CharacterClass.cs" />
+        <option value="$PROJECT_DIR$/Domain/DbEntityConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Domain/Mapping/CharacterMap.cs" />
+        <option value="$PROJECT_DIR$/Domain/Domain/Character.cs" />
+        <option value="$PROJECT_DIR$/Domain/DataAccess/ApplicationDbContext.cs" />
+        <option value="$PROJECT_DIR$/Domain/Settings/ServicesSettings.cs" />
+        <option value="$PROJECT_DIR$/Domain/AccesTokenModel.cs" />
+        <option value="$PROJECT_DIR$/Domain/AccessTokenModel.cs" />
+        <option value="$PROJECT_DIR$/Domain/Settings/ServiceAttribute.cs" />
+        <option value="$PROJECT_DIR$/Domain/Services/Implementation/CharacterService.cs" />
+        <option value="$PROJECT_DIR$/Domain/Services/ICharacterService.cs" />
+        <option value="$PROJECT_DIR$/UltraV/Program.cs" />
+        <option value="$PROJECT_DIR$/UltraV/Controllers/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/UltraV/appsettings.json" />
+        <option value="$PROJECT_DIR$/Domain/GenerateToken.cs" />
+        <option value="$PROJECT_DIR$/UltraV/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1273" />
+    <option name="width" value="1294" />
+    <option name="height" value="1447" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Domain" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Domain" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DataAccess" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Domain" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Domain" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Domain" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Domain" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Implementation" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Domain" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Settings" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UltraV" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UltraV" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UltraV (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UltraV" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Properties" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/UltraV/bin/Debug/netcoreapp2.1/UltraV.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UltraV" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:51409" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/UltraV/UltraV.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="079b6d5e-2be4-4208-a6a0-bda562545db6" name="Default" comment="" />
+      <created>1541263936282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541263936282</updated>
+      <workItem from="1541263937540" duration="2128000" />
+      <workItem from="1541323357779" duration="6745000" />
+      <workItem from="1541334508810" duration="2659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11532000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1456" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50158983" side_tool="true" visible="true" weight="0.39984825" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" sideWeight="0.49920508" weight="0.32852808" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" weight="0.32928678" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49920508" weight="0.32852808" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49841017" weight="0.32852808" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25397456" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49960256" weight="0.32928678" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49841017" weight="0.39984825" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Domain/Services/Implementation/CharacterService.cs</url>
+          <line>54</line>
+          <properties documentPath="$PROJECT_DIR$/Domain/Services/Implementation/CharacterService.cs" initialLine="54">
+            <startOffsets>
+              <startOffset value="1749" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1823" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Domain/GenerateToken.cs</url>
+          <line>33</line>
+          <properties documentPath="$PROJECT_DIR$/Domain/GenerateToken.cs" initialLine="33">
+            <startOffsets>
+              <startOffset value="1042" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1484" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Domain/GenerateToken.cs</url>
+          <line>30</line>
+          <properties documentPath="$PROJECT_DIR$/Domain/GenerateToken.cs" initialLine="30">
+            <startOffsets>
+              <startOffset value="967" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="968" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Domain/GenerateToken.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/Domain/GenerateToken.cs" initialLine="25">
+            <startOffsets>
+              <startOffset value="744" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="902" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Domain/_stylecop/stylecop.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/GenerateToken.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <marker date="1541328526799" expanded="false" signature="6:142" ph="..." />
+            <marker date="1541328526799" expanded="true" signature="160:1736" ph="{...}" />
+            <marker date="1541328526799" expanded="true" signature="193:1734" ph="{...}" />
+            <marker date="1541328526799" expanded="true" signature="619:912" ph="{...}" />
+            <marker date="1541328526799" expanded="true" signature="958:1728" ph="{...}" />
+            <marker date="1541328526799" expanded="true" signature="1154:1482" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/AccessTokenModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <marker date="1541327962290" expanded="true" signature="76:356" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding>
+            <marker date="1541337124252" expanded="false" signature="6:562" ph="..." />
+            <marker date="1541337124252" expanded="true" signature="618:2876" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="645:2874" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="773:919" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="1142:2185" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="1210:1490" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="1724:1932" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2373:2868" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2420:2497" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2514:2573" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2638:2791" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Settings/ServiceAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding>
+            <marker date="1541328372311" expanded="true" signature="25:364" ph="{...}" />
+            <marker date="1541328372311" expanded="true" signature="61:362" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Settings/ServicesSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+          <folding>
+            <marker date="1541327391958" expanded="true" signature="60:185" ph="{...}" />
+            <marker date="1541327391958" expanded="true" signature="96:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/DataAccess/ApplicationDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+          <folding>
+            <marker date="1541325479656" expanded="false" signature="6:57" ph="..." />
+            <marker date="1541325479656" expanded="true" signature="86:920" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="138:918" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="472:492" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="598:652" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="797:912" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Services/Implementation/CharacterService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
+          <folding>
+            <marker date="1541335326076" expanded="true" signature="6:208" ph="..." />
+            <marker date="1541335326076" expanded="true" signature="250:2003" ph="{...}" />
+            <marker date="1541335326076" expanded="true" signature="306:2001" ph="{...}" />
+            <marker date="1541335326076" expanded="true" signature="879:1268" ph="{...}" />
+            <marker date="1541335326076" expanded="true" signature="1321:1995" ph="{...}" />
+            <marker date="1541335326076" expanded="true" signature="1603:1658" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Domain.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/_stylecop/stylecop.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1541263942726" expanded="false" signature="6:255" ph="..." />
+            <marker date="1541263942726" expanded="true" signature="273:600" ph="{...}" />
+            <marker date="1541263942726" expanded="true" signature="300:598" ph="{...}" />
+            <marker date="1541263942726" expanded="true" signature="353:427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1541337124252" expanded="false" signature="6:562" ph="..." />
+            <marker date="1541337124252" expanded="true" signature="618:2876" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="645:2874" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="773:919" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="1142:2185" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="1210:1490" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="1724:1932" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2373:2868" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2420:2497" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2514:2573" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2638:2791" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/DataAccess/DataContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/DataAccess/ApplicationDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <marker date="1541325479656" expanded="false" signature="6:57" ph="..." />
+            <marker date="1541325479656" expanded="true" signature="86:920" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="138:918" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="472:492" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="598:652" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="797:912" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Domain.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Domain.cs" />
+    <entry file="file://$PROJECT_DIR$/Domain/DataAccess/DataContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Enums/CharacterClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/DbEntityConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Mapping/CharacterMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Domain/Character.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/_stylecop/stylecop.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/AccessTokenModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <marker date="1541327962290" expanded="true" signature="76:356" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Services/ICharacterService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <marker date="1541335357860" expanded="true" signature="56:151" ph="{...}" />
+            <marker date="1541335357860" expanded="true" signature="97:149" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <marker date="1541263942726" expanded="false" signature="6:255" ph="..." />
+            <marker date="1541263942726" expanded="true" signature="273:600" ph="{...}" />
+            <marker date="1541263942726" expanded="true" signature="300:598" ph="{...}" />
+            <marker date="1541263942726" expanded="true" signature="353:427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/Controllers/CharacterController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <marker date="1541336023399" expanded="true" signature="6:110" ph="..." />
+            <marker date="1541336023399" expanded="true" signature="140:644" ph="{...}" />
+            <marker date="1541336023399" expanded="true" signature="296:642" ph="{...}" />
+            <marker date="1541336023399" expanded="true" signature="417:473" ph="{...}" />
+            <marker date="1541336023399" expanded="true" signature="550:636" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Services/Implementation/CharacterService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <marker date="1541335326076" expanded="true" signature="6:208" ph="..." />
+            <marker date="1541335326076" expanded="true" signature="250:2003" ph="{...}" />
+            <marker date="1541335326076" expanded="true" signature="306:2001" ph="{...}" />
+            <marker date="1541335326076" expanded="true" signature="879:1268" ph="{...}" />
+            <marker date="1541335326076" expanded="true" signature="1321:1995" ph="{...}" />
+            <marker date="1541335326076" expanded="true" signature="1603:1658" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/DataAccess/ApplicationDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="100" />
+          <folding>
+            <marker date="1541325479656" expanded="false" signature="6:57" ph="..." />
+            <marker date="1541325479656" expanded="true" signature="86:920" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="138:918" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="472:492" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="598:652" ph="{...}" />
+            <marker date="1541325479656" expanded="true" signature="797:912" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="106" lean-forward="true" selection-start-line="16" selection-start-column="106" selection-end-line="16" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Settings/ServiceAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding>
+            <marker date="1541328372311" expanded="true" signature="25:364" ph="{...}" />
+            <marker date="1541328372311" expanded="true" signature="61:362" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Settings/ServicesSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+          <folding>
+            <marker date="1541327391958" expanded="true" signature="60:185" ph="{...}" />
+            <marker date="1541327391958" expanded="true" signature="96:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UltraV/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+          <folding>
+            <marker date="1541337124252" expanded="false" signature="6:562" ph="..." />
+            <marker date="1541337124252" expanded="true" signature="618:2876" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="645:2874" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="773:919" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="1142:2185" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="1210:1490" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="1724:1932" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2373:2868" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2420:2497" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2514:2573" ph="{...}" />
+            <marker date="1541337124252" expanded="true" signature="2638:2791" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/GenerateToken.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <marker date="1541328526799" expanded="false" signature="6:142" ph="..." />
+            <marker date="1541328526799" expanded="true" signature="160:1736" ph="{...}" />
+            <marker date="1541328526799" expanded="true" signature="193:1734" ph="{...}" />
+            <marker date="1541328526799" expanded="true" signature="619:912" ph="{...}" />
+            <marker date="1541328526799" expanded="true" signature="958:1728" ph="{...}" />
+            <marker date="1541328526799" expanded="true" signature="1154:1482" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

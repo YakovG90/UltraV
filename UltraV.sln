@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraV", "UltraV\UltraV.csproj", "{DD1CA18E-6412-419E-9DF3-75B0111B17DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{F3B9EA19-EC2C-413E-83CC-D3732D98359D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1CA18E-6412-419E-9DF3-75B0111B17DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1CA18E-6412-419E-9DF3-75B0111B17DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1CA18E-6412-419E-9DF3-75B0111B17DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1CA18E-6412-419E-9DF3-75B0111B17DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B9EA19-EC2C-413E-83CC-D3732D98359D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B9EA19-EC2C-413E-83CC-D3732D98359D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B9EA19-EC2C-413E-83CC-D3732D98359D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B9EA19-EC2C-413E-83CC-D3732D98359D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
