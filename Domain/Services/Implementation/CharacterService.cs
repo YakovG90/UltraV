@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 using Domain.DataAccess;
 using Domain.Settings;
 using Microsoft.AspNetCore.WebUtilities;
+using Microsoft.Extensions.Configuration;
 
 namespace Domain.Services.Implementation
 {
     public class CharacterService : ICharacterService
     {
-        private readonly string blizzBaseUrl = "eu.api.blizzard.com/";
+        private readonly string blizzBaseUrl = "https://eu.api.blizzard.com/";
 
         private readonly ApplicationDbContext context;
 
@@ -22,17 +23,17 @@ namespace Domain.Services.Implementation
         private readonly GenerateToken tokenGenerator;
 
         private readonly IHttpClientFactory clientFactory;
+        
+        public IConfiguration Configuration { get; }
 
         public CharacterService(
             DataContext context,
-            ServicesSettings servicesSettings,
+            IConfiguration configuration,
             GenerateToken tokenGenerator,
             IHttpClientFactory clientFactory)
         {
             this.context = context.DbContext;
-            this.servicesSettings = servicesSettings;
-            this.serviceAttribute = servicesSettings.Services
-                .FirstOrDefault(s => s.Key.Equals("BlizzardApi", StringComparison.OrdinalIgnoreCase)).Value;
+            this.Configuration = configuration;
             this.tokenGenerator = tokenGenerator;
             this.clientFactory = clientFactory;
         }
@@ -53,6 +54,8 @@ namespace Domain.Services.Implementation
             var urlWithQueries = QueryHelpers.AddQueryString(url, fields);
 
             var request = new HttpRequestMessage(HttpMethod.Get, $"{urlWithQueries}");
+            
+            request.Headers.Add("Authorization", $"Bearer {accessToken}");
 
             var response = client.SendAsync(request);
 
