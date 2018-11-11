@@ -8,61 +8,61 @@
         /// <summary>
         /// Warrior
         /// </summary>
-        Warrior = 0,
+        Warrior = 1,
 
         /// <summary>
         /// Paladin
         /// </summary>
-        Paladin = 1,
+        Paladin = 2,
 
         /// <summary>
         /// Hunter
         /// </summary>
-        Hunter = 2,
+        Hunter = 3,
 
         /// <summary>
         /// Rogue
         /// </summary>
-        Rogue = 3,
+        Rogue = 4,
 
         /// <summary>
         /// Priest
         /// </summary>
-        Priest = 4,
+        Priest = 5,
 
         /// <summary>
         /// DeathKnight
         /// </summary>
-        DeathKnight = 5,
+        DeathKnight = 6,
 
         /// <summary>
         /// Shaman
         /// </summary>
-        Shaman = 6,
+        Shaman = 7,
 
         /// <summary>
         /// Mage
         /// </summary>
-        Mage = 7,
+        Mage = 8,
 
         /// <summary>
         /// Warlock
         /// </summary>
-        Warlock = 8,
-
+        Warlock = 9,
+        
         /// <summary>
         /// Monk
         /// </summary>
-        Monk = 9,
+        Monk = 10,
 
         /// <summary>
         /// Druid
         /// </summary>
-        Druid = 10,
+        Druid = 11,
 
         /// <summary>
         /// DemonHunter
         /// </summary>
-        DemonHunter = 11
+        DemonHunter = 12
     }
 }

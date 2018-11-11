@@ -3381,7 +3381,7 @@
     "AutoMapper/6.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/5Jj0SwQlvBTThslWFLgaZH4S3mCymOjZZBfEvaM2s4VF3Q4KiJSzJrMRRS8h7nt6I99q8OaZgWg+7WQdACL+A==",
+      "sha512": "sha512-A+6PAblvzmkXPS20nFBQJvlNSW5oEdyfN5+cxT/Du35fTNyuP5pNDXT64KT/jBgxt7CPduOM0Y7oLnNe0E5IXg==",
       "path": "automapper/6.1.1",
       "hashPath": "automapper.6.1.1.nupkg.sha512"
     },
@@ -3493,35 +3493,35 @@
     "StyleCop.Analyzers/1.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-SJXrFL+4YbLBlV+4Ija4/ezKApo1PfMBpeYS4vZomnUTWNxHHt0D3b+4GYc8ayA06+ZMAChYi6+nSfuFD56WMw==",
+      "sha512": "sha512-3xD87lafnVhsSEtJKk50G7FGutvaXkFz4XrrLrxnk/DhZU42dnCGWUsvKuBv4mTS0XdIgTY88tLhxW/8Vi3Pow==",
       "path": "stylecop.analyzers/1.0.2",
       "hashPath": "stylecop.analyzers.1.0.2.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-MVDLekgUsowAtPVif6Qf4wK1sNZVvH3+w0t9CgYJfUS8o5bcHp4n2wNbZSCef9ctbzowCCaaaUORcuPne8rSCQ==",
+      "sha512": "sha512-aM17YeBlYLIftD+4xCUPw/yT+FLjCyOCFinikXj42hntFYkkAuTRGLm9x+t7kfC13/OBiMJ1XEjl3MGeknx1cw==",
       "path": "swashbuckle.aspnetcore/3.0.0",
       "hashPath": "swashbuckle.aspnetcore.3.0.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.Swagger/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-byxupaMfEioVpfZLVvI1PzSp5YjIIixwH9NQFJsab1Ye4EgzWoPUJg+QyTY5kZNGDmZ2ir/WfTJyEV4seOCxLw==",
+      "sha512": "sha512-smrewcRU7HK+3WRZWNYFXVAqD1apyIEwcYEdzVu23tNJek8GQM1V8yqIlj41D8CbYoqaeF+fDhkUDY6FSXUDuw==",
       "path": "swashbuckle.aspnetcore.swagger/3.0.0",
       "hashPath": "swashbuckle.aspnetcore.swagger.3.0.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.SwaggerGen/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-yzsizeij622YTehkcMFNP1sH/v0CEGZ3NiEkJC4vG6rt7dgCRXZ2rQdN4mn44XlTBv+616ga5fYySuJzka+y9Q==",
+      "sha512": "sha512-DjGV/s6dUi+Xg4ofc2/TCDJlFhGAstvStCBAJ8F2mllIRAtf+s0HsfAIPmFy+W0gOzo1/voRtMKU1uvINZtDFw==",
       "path": "swashbuckle.aspnetcore.swaggergen/3.0.0",
       "hashPath": "swashbuckle.aspnetcore.swaggergen.3.0.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.SwaggerUI/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-rmQEdp6njngOGs/0nT2g2olygKiG+SdDVf4Ju7y7Pn6JoiGZ5VukrzaCnPxOvEOkq1vJeV8QCTaNytlTwHaBvQ==",
+      "sha512": "sha512-Gg3rELfq7qJOx8d4xO6hvqSdhMk9ofQCdtLVjBAAVyKehkJRCqiXUO+hJ+/GeEngkaLEglaK/+6an4gC/AxOlg==",
       "path": "swashbuckle.aspnetcore.swaggerui/3.0.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.3.0.0.nupkg.sha512"
     },
@@ -3577,7 +3577,7 @@
     "System.Linq.Queryable/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-XeuhzDnMp4nqUkeW4c5ILsKQk4+15RVaHm8LQdKWiGqIAgC12y2vuJUkkNhqjqi3K6LNmV9tzEfAZrarwWMsKA==",
+      "sha512": "sha512-In1Bmmvl/j52yPu3xgakQSI0YIckPUr870w4K5+Lak3JCCa8hl+my65lABOuKfYs4ugmZy25ScFerC4nz8+b6g==",
       "path": "system.linq.queryable/4.3.0",
       "hashPath": "system.linq.queryable.4.3.0.nupkg.sha512"
     },

@@ -1,12 +1,12 @@
-﻿using Domain.Domain;
-using Microsoft.EntityFrameworkCore;
-
-namespace Domain.DataAccess
+﻿namespace Domain.DataAccess
 {
+    using Domain;
+    using Microsoft.EntityFrameworkCore;
+
     public class ApplicationDbContext : DbContext
     {
         private const string ConnectionString =
-            "DataSource=(LocalDb)\\MSSQLLocalDB;database=UltraViolet.Local;Trusted_Connection=True;";
+            "Data Source=(LocalDb)\\MSSQLLocalDB;database=UltraViolet.Local;Trusted_Connection=True;";
 
         private readonly string schema;
 

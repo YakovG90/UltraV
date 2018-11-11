@@ -1,37 +1,57 @@
-﻿using System;
-using Domain.Enums;
-
-namespace Domain.Domain
+﻿namespace Domain.Domain
 {
+    using System;
+    using Enums;
+
     public class Character
     {
         public Character(
             string characterName,
-            CharacterClass cClass,
+            CharacterClass characterClass,
             int level,
-            Guid userId,
-            int guildRank)
+            int guildRank,
+            int itemLevel,
+            string role,
+            string specialization,
+            int achievementPoints,
+            string characterPicture,
+            byte[] pictureData)
         {
             this.CharacterName = characterName;
-            this.Class = cClass;
+            this.CharacterClass = characterClass;
             this.Level = level;
-            this.UserId = userId;
             this.GuildRank = guildRank;
-            this.PublicId = new Guid();
+            this.PublicId = Guid.NewGuid();
+            this.ItemLevel = itemLevel;
+            this.Role = role;
+            this.Specialization = specialization;
+            this.AchievementPoints = achievementPoints;
+            this.CharacterPicture = characterPicture;
+            this.PictureData = pictureData;
         }
         
         public int Id { get; protected set; }
         
         public string CharacterName { get; protected set; }
         
-        public CharacterClass Class { get; protected set; }
+        public CharacterClass CharacterClass { get; protected set; }
         
         public int Level { get; protected set; }
-        
-        public Guid UserId { get; protected set; }
         
         public Guid PublicId { get; protected set; }
         
         public int GuildRank { get; protected set; }
+        
+        public int ItemLevel { get; protected set; }
+        
+        public string Role { get; protected set; }
+        
+        public string Specialization { get; protected set; }
+        
+        public int AchievementPoints { get; protected set; }
+        
+        public string CharacterPicture{ get; protected set; }
+        
+        public byte[] PictureData { get; protected set; }
     }
 }
