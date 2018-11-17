@@ -20,9 +20,7 @@ namespace Domain.Models
         
         public string PictureUrl { get; set; }
         
-        public byte[] PictureData { get; set; }
-        
-        public object Picture { get; set; }
+        public string Image { get; set; }
         
         public Guid PublicId { get; set; }
     }

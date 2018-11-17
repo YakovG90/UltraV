@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Threading.Tasks;
 using Domain.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -19,7 +20,7 @@ namespace UltraV.Controllers
             this.service = service;
         }
 
-        [HttpGet("/GetFromAPI")]
+        [HttpGet("GetFromAPI")]
         public async Task<IActionResult> GetGuildMember()
         {
             return this.Ok(await this.service.GetGuildMembers());
@@ -38,15 +39,7 @@ namespace UltraV.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllGuildMembers()
         {
-            var characterData = await this.service.GetAllGuildMembers();
-
-            foreach (var character in characterData)
-            {
-                var file = File(character.PictureData, "image/jpg");
-                character.Picture = file;
-            }
-            
-            return this.Ok(characterData);
+            return this.Ok(await this.service.GetAllGuildMembers());
         }
     }
 }

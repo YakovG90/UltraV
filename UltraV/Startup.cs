@@ -83,7 +83,8 @@ namespace UltraV
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Ultra API V1");
                 c.RoutePrefix = string.Empty;
             });
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
+            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             app.UseMvc();
         }
     }

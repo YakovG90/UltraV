@@ -88,6 +88,7 @@ namespace Domain.Services.Implementation
                 {
                     continue;
                 }
+
                 var profileUrl = $"{this.blizzBaseUrl}/wow/character/blackhand/{member.Character.Name}";
                 var profileUrlWithQuery = QueryHelpers.AddQueryString(profileUrl, itemField);
                 var ilvlRequest = new HttpRequestMessage(HttpMethod.Get, profileUrlWithQuery);
@@ -97,8 +98,8 @@ namespace Domain.Services.Implementation
                 dynamic data = JsonConvert.DeserializeObject(ilvlContent);
 
                 member.Character.Items.AverageItemLevelEquipped = Convert.ToInt32(data.items.averageItemLevelEquipped);
-                var classString = (string)Convert.ToString(data.@class);
-                var pictureUrl = (string)Convert.ToString(data.thumbnail);
+                var classString = (string) Convert.ToString(data.@class);
+                var pictureUrl = (string) Convert.ToString(data.thumbnail);
 
                 member.Character.PictureUrl = pictureUrl.Replace("-avatar.jpg", string.Empty);
 
@@ -146,13 +147,22 @@ namespace Domain.Services.Implementation
                 .AsNoTracking()
                 .ToListAsync();
 
-            return this.mapper.Map<List<CharacterViewModel>>(characters);
+            var characterViewModelList = this.mapper.Map<List<CharacterViewModel>>(characters);
+
+            foreach (var characterViewModel in characterViewModelList)
+            {
+                characterViewModel.Image =
+                    Convert.ToBase64String(
+                        characters.FirstOrDefault(c => c.PublicId.Equals(characterViewModel.PublicId))?.PictureData);
+            }
+
+            return characterViewModelList;
         }
 
         private async Task<byte[]> SaveImageToDb(string characterLink)
-            {
+        {
             var url = $"https://render-eu.worldofwarcraft.com/character/{characterLink}-main.jpg";
-            
+
             var webClient = new WebClient();
             var imageData = await webClient.DownloadDataTaskAsync(url);
 
