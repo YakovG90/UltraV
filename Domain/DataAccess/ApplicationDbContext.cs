@@ -20,8 +20,10 @@
         {
             this.schema = schema;
         }
-        
+
         public virtual DbSet<Character> Characters { get; set; }
+
+        public virtual DbSet<Notification> Notifications { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

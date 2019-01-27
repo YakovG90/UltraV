@@ -25,7 +25,7 @@ namespace UltraV
     public class Startup
     {
         private readonly ServicesSettings servicesSettings;
-        
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -49,6 +49,7 @@ namespace UltraV
 
             services.AddSingleton<GenerateToken>();
             services.AddTransient<ICharacterService, CharacterService>();
+            services.AddTransient<INotificationService, NotificationService>();
 
             services.AddSingleton(
                 typeof(ServicesSettings),

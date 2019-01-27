@@ -1,9 +1,9 @@
-﻿using Domain.Domain;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
-
-namespace Domain.Mapping
+﻿namespace Domain.Mapping
 {
+    using Domain;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
     public class CharacterMap : DbEntityConfiguration<Character>
     {
         private readonly string schema;
@@ -12,7 +12,7 @@ namespace Domain.Mapping
         {
             this.schema = schema;
         }
-        
+
         public override void Configure(EntityTypeBuilder<Character> entity)
         {
             entity.ToTable("Character", this.schema);
